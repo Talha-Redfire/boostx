@@ -1,0 +1,7 @@
+.LayoutMain {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 174, 165, 0.35) 0%,
+    rgba(0, 174, 165, 0) 100%
+  );
+}

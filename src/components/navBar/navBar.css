@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.startFreeBtn {
+  background: #40c8ff;
+  border-radius: 6px;
+  width: 137px;
+  border: none;
+  outline: none;
+  height: 52px;
+}
